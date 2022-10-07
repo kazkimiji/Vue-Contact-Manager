@@ -1,0 +1,81 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Brad Gibson",
+      "company": "YouTube",
+      "email": "brad@gmail.com",
+      "title": "Youtuber",
+      "mobile": "987654787",
+      "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.awAiMS1BCAQ2xS2lcdXGlwHaHH%26pid%3DApi&f=1&ipt=64b51115aac54fab56e5186c87644f2e123efb12bf9ca63dc9546fb67cd776ec&ipo=images",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Glenda Kim",
+      "company": "HCL Technologies",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880009991",
+      "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.0lMndYmMp7Wnl3I9SjY63gHaHa%26pid%3DApi&f=1&ipt=c50164bc0484990f75e345803d4acd8ec90f913589b00b4097114e4dd46715dc&ipo=images",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Vladeen Min",
+      "company": "Oracle Electricals",
+      "email": "vladeen@gmail.com",
+      "title": "Electrician",
+      "mobile": "987654787",
+      "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.scExuNqSeL_zvoAQbH0gWAHaHa%26pid%3DApi&f=1&ipt=3c9b5af137da99216e423bf26301a07ba5737a5e742304688186a662cbb04b10&ipo=images",
+      "groupId": "4"
+    },
+    {
+      "name": "Rajan",
+      "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._NWvCJxi-_nfSbQF2uTypAHaHa%26pid%3DApi&f=1&ipt=f4d22e6abd52071dc0df0393c0e88468af61e510b0289d9cf538292fbca853a3&ipo=images",
+      "mobile": "9090909090",
+      "email": "rajan1@gmail.com",
+      "company": "HCL",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    },
+    {
+      "name": "Kaz Kimijima",
+      "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%3Fid%3DOIP.jIC8YQksF67kGSmqmRBV0gAAAA%26pid%3DApi&f=1&ipt=12608a419d04c75262410cd79717c98dc470a4a489f20880357f82e7f7c5817e&ipo=images",
+      "email": "kazuyakimijima55@gmail.com",
+      "mobile": 9179726677,
+      "comapny": "",
+      "title": "CEO",
+      "groupId": "1",
+      "company": "TKNY Management Inc.",
+      "id": "YNwp9O8"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
