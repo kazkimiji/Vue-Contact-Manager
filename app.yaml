@@ -1,3 +1,4 @@
+service: vue-contact-manager
 runtime: nodejs16
 handlers:
   # Serve all static files with urls ending with a file extension
