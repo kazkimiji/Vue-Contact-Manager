@@ -1,10 +1,14 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router';
 import HomeView from '../views/HomeView.vue'
 import ContactManager from "@/views/ContactManager";
 import AddContact from "@/views/AddContact";
 import EditContact from "@/views/EditContact";
 import ViewContact from "@/views/ViewContact";
 import PageNotFound from "@/views/PageNotFound";
+import Vue from "vue";
+import VueRouter from "vue-router";
+
+Vue.use(VueRouter);
 
 const routes = [
   {
