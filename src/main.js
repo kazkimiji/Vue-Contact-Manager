@@ -18,3 +18,11 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import "./styles.css" // main css file
 
 createApp(App).use(store).use(router).mount('#app')
+
+new Vue({
+    router,
+    render: h => h(App),
+    data: {
+        a: 1
+    }
+}).$mount('#app')
